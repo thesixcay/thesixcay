@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.pfps.gg/banners/87188-chase-your-dreams.png)
+![MasterHead](https://cdn.pfps.gg/banners/49228-light-through-windows.jpeg)
 <h1 align="center">Hi 👋, I'm thesixcay</h1>
 <h3 align="center">A passionate cybersecurity from DR</h3>
 
