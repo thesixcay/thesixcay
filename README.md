@@ -1,45 +1,50 @@
 <p align="center">
-  <img
-    src="https://cdn.pfps.gg/banners/86792-jesus-banner.jpeg"
-    alt="MasterHead"
-    width="100%"
-    style="max-width: 1400px; height: auto; display: block;"
-  />
+  <!-- Banner centrado -->
+  <img src="https://cdn.pfps.gg/banners/86792-jesus-banner.jpeg" alt="GitHub Banner - Osvaldo Alejandro (thesixcay)" style="max-width:100%; height:auto; display:block; margin:0 auto;">
 </p>
 
-<h1 align="center">Hi 👋, I'm thesixcay</h1>
-<h3 align="center">A passionate DFIR student from DR</h3>
+<div align="center">
+  <!-- Texto animado tipo "typing" personalizado -->
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=18F76B&width=520&lines=I'm+thesixcay;Osvaldo+Alejandro;DFIR+%26+Cybersecurity;From+Dominican+Republic"
+      alt="Typing SVG - I'm thesixcay"
+    />
+  </a>
+</div>
 
-- 🌱 I’m currently learning **DFIR**
+<!-- Imagen lateral (opcional). Puedes quitarla si no la usas -->
+<img src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf" alt="Side image - DFIR" style="float:right; width:28%; margin:0 0 10px 20px;">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/osvaldo-alejandro-82a4a52b4" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osvaldo-alejandro-82a4a52b4" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@thesixcay" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube: @thesixcay" height="30" width="40" />
-  </a>
-</p>
+<h2 style="text-align:left;">
+  Hello there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="25" style="vertical-align:middle;">
+</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-</p>
+I'm **Osvaldo Alejandro (thesixcay)** — **DFIR** & **Cybersecurity** student from **Dominican Republic**. <br>
+
+<details>
+  <summary>More about me</summary>
+
+- **Name:** Osvaldo Alejandro  
+- **From:** Dominican Republic 🇩🇴  
+- **Roles:** DFIR | Threat Hunter | SOC (aspiring) | Developer  
+- **Experience:** CTFs, forensics, malware analysis, web security, network analysis, Python/Bash scripting  
+- **Focus:** Blue Team & DFIR  
+
+</details>
+
+---
+
+<h2 id="present_status">My purpose</h2>
+
+<img src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59" alt="Purpose side image" style="float:right; width:25%; margin:0 0 10px 20px;">
+
+- 👉 Incident Response & DFIR  
+- 👉 Threat Hunting & Log Analysis  
+- 👉 Forensic Cyber Activism  
+- 👉 Network & Endpoint Forensics  
+
+**My Goal:** Journey to become a great DFIR/SOC Analyst.
+
+---
