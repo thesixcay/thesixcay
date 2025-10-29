@@ -1,8 +1,7 @@
-![MasterHead](https://cdn.pfps.gg/banners/49228-light-through-windows.jpeg)
+<img align="right" alt="Coding" width="400" src="https://cdn.pfps.gg/banners/60015-2009.gif">
 <h1 align="center">Hi 👋, I'm thesixcay</h1>
 <h3 align="center">A passionate cybersecurity from DR</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.pfps.gg/banners/60015-2009.gif">
 
 - 🌱 I’m currently learning **DFIR**
 
